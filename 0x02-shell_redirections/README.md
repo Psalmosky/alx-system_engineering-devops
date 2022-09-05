@@ -8,3 +8,4 @@
 7.
 8. A script to write into a file
 9. To duplicate the last line of the file iacta
+10. To delete all the regular files with a .js extension that are present in the current directory and all its subfolders
