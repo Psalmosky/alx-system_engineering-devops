@@ -21,3 +21,4 @@
 20. Remove all letters c and C from input
 21. A script that reverse its input
 22. Display all users and their home directories, sorted by users
+23. To find all empty files and directories in the current directory and all sub-directories
