@@ -5,7 +5,7 @@
 4. Display the last 10 lines of /etc/passwd
 5. Display the first 10 lines of /etc/passwd
 6. Display the third line of the file iacta
-7.
+7. To create a funny file containing the text Best School ending by a new line
 8. A script to write into a file
 9. To duplicate the last line of the file iacta
 10. To delete all the regular files with a .js extension that are present in the current directory and all its subfolders
