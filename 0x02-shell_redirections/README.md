@@ -7,3 +7,4 @@
 6. Display the third line of the file iacta
 7.
 8. A script to write into a file
+9. To duplicate the last line of the file iacta
