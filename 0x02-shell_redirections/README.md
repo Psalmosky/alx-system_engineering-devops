@@ -13,3 +13,4 @@
 12. To display the 10 newest files in the current directory, one file per line and sorted from the newest to the oldest
 13. To take a list of words as input and prints only words that appear exactly once
 14. Display lines containing the pattern “root” from the file /etc/passwd
+15. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
