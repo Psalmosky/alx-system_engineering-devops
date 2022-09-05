@@ -5,3 +5,5 @@
 4. Display the last 10 lines of /etc/passwd
 5. Display the first 10 lines of /etc/passwd
 6. Display the third line of the file iacta
+7.
+8. A script to write into a file
