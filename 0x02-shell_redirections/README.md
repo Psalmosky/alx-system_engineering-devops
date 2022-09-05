@@ -22,3 +22,4 @@
 21. A script that reverse its input
 22. Display all users and their home directories, sorted by users
 23. To find all empty files and directories in the current directory and all sub-directories
+24. List all the files with a .gif extension in the current directory and all its sub-directories
