@@ -12,3 +12,4 @@
 11. Convert a number from base 2 to base 10
 12. Print all possible combinations of two letters, except oo
 13. Print a number with two decimal places, followed by a new line
+14. To convert a number from base 10 to base 16
