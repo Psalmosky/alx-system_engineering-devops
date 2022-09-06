@@ -14,3 +14,4 @@
 13. Print a number with two decimal places, followed by a new line
 14. To convert a number from base 10 to base 16
 15. Encode and decode text using the rot13 encryption. Assume ASCII
+16. Print every other line from the input, starting with the first line
