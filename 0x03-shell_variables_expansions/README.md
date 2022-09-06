@@ -9,3 +9,4 @@
 8. Print the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 9. Print the result of POWER divided by DIVIDE, followed by a new line
 10. Display the result of BREATH to the power LOVE
+11. Convert a number from base 2 to base 10
