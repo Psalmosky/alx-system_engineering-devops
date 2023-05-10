@@ -1,6 +1,6 @@
-# Apache returns 500; use this script to fix typo in config
+# automated puppet fix (to find out why Apache is returning a 500 error)
 
-exec { 'fix config typo':
-  command => "sed -i 's/.phpp/.php/' /var/www/html/wp-settings.php",
-  path    => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+exec { 'Fix wordpress site':
+  command  => 'sudo sed -i "s/.phpp/.php/" /var/www/html/wp-settings.php',
+  provider => shell,
 }
